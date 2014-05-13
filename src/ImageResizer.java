@@ -5,9 +5,9 @@ import java.io.File;
 import javax.imageio.ImageIO;
 
 public class ImageResizer {
-	private static double XHDPI = 66.66;
-	private static double HDPI = 50;
-	private static double MDPI = 33.33;
+	private final static double XHDPI = 66.66;
+	private final static double HDPI = 50;
+	private final static double MDPI = 33.33;
 	private static String workingDirectory;
 
 	public static void main(String[] args) {
