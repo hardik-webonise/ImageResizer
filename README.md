@@ -18,3 +18,5 @@ You will be getting 3 folders as an output
 * drawable-hdpi
 * drawable-mdpi
 
+
+You can add one more output folder drawable-ldpi too if you want. I have skipped that in project as many of the developer's has stop providing support for low resolution devices now.
